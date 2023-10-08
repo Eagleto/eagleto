@@ -1,6 +1,6 @@
 ### Hi, I'm Abhishek Bind
 
-👨‍💻 Full-Stack Developer | 🎓 Bachelor in Computer Science
+👨‍💻 <b>Full-Stack Developer</b> | 🎓 <i>Bachelor in Computer Science</i>
 
 🌟 Welcome to my GitHub profile! 🌟
 
@@ -15,6 +15,6 @@ I'm a passionate full-stack developer with a strong foundation in Computer Scien
 - 📚 Lifelong learner, constantly exploring new technologies and best practices.
 - 🧩 Problem solver, with a knack for turning ideas into functional applications.
 
-Let's connect and collaborate on exciting projects! Feel free to reach out to me at [bindabhishek22@gmail.com](mailto:bindabhishek22@gmail.com) for inquiries or collaboration opportunities. Let's build something awesome together!
+Let's connect and collaborate on exciting projects! Feel free to reach out to me at <a href="mailto:bindabhishek22@gmail.com">bindabhishek22@gmail.com</a> for inquiries or collaboration opportunities. Let's build something awesome together!
 
 🌐 Check out my projects and contributions below. Happy coding!
